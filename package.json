@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^v7.0.0-rc.9",
-    "baileys": "^6.7.19",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.17.0",
